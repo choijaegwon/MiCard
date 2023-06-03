@@ -1,16 +1,2 @@
 # mi_card
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![스크린샷 2023-06-03 오후 10 32 04](https://github.com/choijaegwon/choijaegwon.github.io/assets/68246962/1b0c917a-a3dd-48f7-9141-3efc9a66f9e1)  
